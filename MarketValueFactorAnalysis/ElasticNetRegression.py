@@ -1,13 +1,11 @@
 import pandas as pd
 import matplotlib.pyplot as plt
-
-
-
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
 from sklearn.linear_model import ElasticNetCV
 from sklearn.metrics import mean_squared_error, r2_score
 import numpy as np
+import seaborn as sns
 
 # 加载数据集
 data_path = './Dataset/Dataset.xlsx'
@@ -39,9 +37,9 @@ r2 = r2_score(y_test, y_pred)
 print(f"mse:{mse}\n r2:{r2}\n elastic_net_cv.alpha_:{elastic_net_cv.alpha_}\n elastic_net_cv.l1_ratio_:{elastic_net_cv.l1_ratio_}")
 
 feature_coef = pd.DataFrame({
-        'Feature': X.columns,
-        'Coefficients (B)': elastic_net_cv.coef_
-    })
+    'Feature': X.columns,
+    'Coefficients (B)': elastic_net_cv.coef_
+})
     
 feature_coef.to_csv('./MarketValueFactorAnalysis/Coefficients/FeaturesCoefficients.csv', header=True)
 
@@ -62,6 +60,7 @@ top_features_sorted = top_features.sort_values(by='Coefficients (B)')
 
 # 配置绘图样式和字体
 plt.rcParams["font.family"] = "SimHei"
+plt.rcParams['axes.unicode_minus'] = False
 plt.rcParams["font.size"] = 14
 
 # 创建图表
@@ -95,3 +94,37 @@ sm.set_array([])
 cbar = fig.colorbar(sm, ax=ax)
 cbar.set_label('Coefficient Value')
 
+plt.show()
+
+# 选择前N个最重要的特征（例如，N=10）
+top_n = 10
+top_features = np.abs(elastic_net_cv.coef_).argsort()[-top_n:]
+selected_features = X.columns[top_features]
+
+# 创建包含选定特征和目标变量的DataFrame
+selected_data = pd.concat([X.iloc[:, top_features], y], axis=1)
+
+# 计算选定特征的相关性矩阵
+corr_matrix_selected = selected_data.corr()
+
+# 绘制相关性矩阵的热图
+plt.figure(figsize=(12, 8))
+sns.heatmap(corr_matrix_selected, annot=True, cmap='coolwarm', fmt=".2f")
+plt.title('Correlation Matrix of Top Features and Target')
+plt.xticks(rotation=90)
+plt.yticks(rotation=0)
+plt.show()
+
+
+#绘制预测真实值
+y_pred_adjusted = np.maximum(y_pred, 0)  # 将预测值小于0的调整为0
+
+plt.figure(figsize=(8, 6))
+sns.scatterplot(x=y_test, y=y_pred_adjusted, alpha=0.6, edgecolor=None, color='blue')
+plt.xlabel('Actual Values', fontsize=14)
+plt.ylabel('Predicted Values', fontsize=14)
+plt.plot([y_test.min(), y_test.max()], [y_test.min(), y_test.max()], 'k--', lw=4)
+plt.fill_between([y_test.min(), y_test.max()], [y_test.min(), y_test.max()],
+                 [y_test.min() * 0.9, y_test.max() * 1.1], color='gray', alpha=0.2)
+plt.title('Actual vs. Predicted Values', fontsize=16)
+plt.show()
