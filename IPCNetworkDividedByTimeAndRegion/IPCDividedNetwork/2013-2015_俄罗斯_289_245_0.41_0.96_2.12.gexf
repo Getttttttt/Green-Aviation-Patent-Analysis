@@ -1,0 +1,1705 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-05-01">
+    <creator>NetworkX 3.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="weight" type="long" />
+    </attributes>
+    <nodes>
+      <node id="G01W1/02" label="G01W1/02">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="H02G3/02" label="H02G3/02">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B64D1/16" label="B64D1/16">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B64G1/42" label="B64G1/42">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="B64G7/00" label="B64G7/00">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B64G1/00" label="B64G1/00">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="F42B12/00" label="F42B12/00">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="F03H1/00" label="F03H1/00">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="F02K7/18" label="F02K7/18">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="F02K7/00" label="F02K7/00">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B64C27/04" label="B64C27/04">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="G05D1/00" label="G05D1/00">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B64C11/30" label="B64C11/30">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B64C27/32" label="B64C27/32">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="B64C1/36" label="B64C1/36">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="F15B15/00" label="F15B15/00">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="F15B15/22" label="F15B15/22">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="F15B11/068" label="F15B11/068">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B64D25/08" label="B64D25/08">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B64D10/00" label="B64D10/00">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="F16B33/06" label="F16B33/06">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="F03D3/04" label="F03D3/04">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="F41H1/02" label="F41H1/02">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="G01S3/02" label="G01S3/02">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="G01S11/04" label="G01S11/04">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B64D41/00" label="B64D41/00">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="B64D37/02" label="B64D37/02">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B64G1/50" label="B64G1/50">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="B64C39/00" label="B64C39/00">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="F04B23/04" label="F04B23/04">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="F16K17/04" label="F16K17/04">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="F16L15/08" label="F16L15/08">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="F03D1/02" label="F03D1/02">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="F03D11/04" label="F03D11/04">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B61B13/08" label="B61B13/08">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B61B5/00" label="B61B5/00">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B60V3/04" label="B60V3/04">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="G01M9/00" label="G01M9/00">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="B64D27/24" label="B64D27/24">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="B64C31/024" label="B64C31/024">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B64C39/04" label="B64C39/04">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B64D35/06" label="B64D35/06">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B60L11/02" label="B60L11/02">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="B60L50/10" label="B60L50/10">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="F02K1/76" label="F02K1/76">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="F41F3/04" label="F41F3/04">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="F02C7/057" label="F02C7/057">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="C09D5/32" label="C09D5/32">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="H01Q17/00" label="H01Q17/00">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="G01M5/00" label="G01M5/00">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="G01B11/16" label="G01B11/16">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="G01L1/24" label="G01L1/24">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B64C27/46" label="B64C27/46">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B64D45/00" label="B64D45/00">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="G01R31/00" label="G01R31/00">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B64G1/22" label="B64G1/22">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="B64C25/40" label="B64C25/40">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="B64C25/04" label="B64C25/04">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="F02C7/266" label="F02C7/266">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B64D17/80" label="B64D17/80">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="B64D17/72" label="B64D17/72">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="B64D17/62" label="B64D17/62">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="B64D17/58" label="B64D17/58">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="B64C27/28" label="B64C27/28">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="B64C37/00" label="B64C37/00">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="B67D7/04" label="B67D7/04">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="G01M9/08" label="G01M9/08">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B64C11/26" label="B64C11/26">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B64D17/34" label="B64D17/34">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B64D25/10" label="B64D25/10">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B64C39/02" label="B64C39/02">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="B64D27/02" label="B64D27/02">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B64D35/08" label="B64D35/08">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="F42C15/00" label="F42C15/00">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="F42C15/184" label="F42C15/184">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="F42C15/40" label="F42C15/40">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="F42C15/42" label="F42C15/42">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="G09B9/00" label="G09B9/00">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="G06G7/63" label="G06G7/63">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="G01R27/00" label="G01R27/00">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="H02J3/00" label="H02J3/00">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B64C13/50" label="B64C13/50">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="B64C13/06" label="B64C13/06">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B64C13/04" label="B64C13/04">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="F02K7/10" label="F02K7/10">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="B64C27/22" label="B64C27/22">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="G01M3/40" label="G01M3/40">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="H05H3/00" label="H05H3/00">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B64G4/00" label="B64G4/00">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="C25F1/00" label="C25F1/00">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="C25F5/00" label="C25F5/00">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="B64D27/20" label="B64D27/20">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B60R19/52" label="B60R19/52">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B64D33/02" label="B64D33/02">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="F02C7/055" label="F02C7/055">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="H02J9/06" label="H02J9/06">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="H02J1/00" label="H02J1/00">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="F01K17/00" label="F01K17/00">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="H02J11/00" label="H02J11/00">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="H02J13/00" label="H02J13/00">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="H02J9/00" label="H02J9/00">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="H02J4/00" label="H02J4/00">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B64C39/08" label="B64C39/08">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="F04D13/06" label="F04D13/06">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="F04D29/62" label="F04D29/62">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="F04D29/02" label="F04D29/02">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="F03D9/00" label="F03D9/00">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="G06F15/16" label="G06F15/16">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="G01S3/78" label="G01S3/78">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="G01P3/02" label="G01P3/02">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B64D43/00" label="B64D43/00">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B64D25/00" label="B64D25/00">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B64D27/08" label="B64D27/08">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B64C27/00" label="B64C27/00">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="B64F1/18" label="B64F1/18">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="B64D45/02" label="B64D45/02">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="B64C1/00" label="B64C1/00">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B64C3/20" label="B64C3/20">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B64B1/02" label="B64B1/02">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B64D35/04" label="B64D35/04">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B64B1/32" label="B64B1/32">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B64C33/00" label="B64C33/00">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="F41H13/00" label="F41H13/00">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="F41H3/00" label="F41H3/00">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="F03D1/04" label="F03D1/04">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="F41J9/10" label="F41J9/10">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B64G5/00" label="B64G5/00">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="B64D27/00" label="B64D27/00">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="H02P9/04" label="H02P9/04">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="H02K47/04" label="H02K47/04">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="F02N11/04" label="F02N11/04">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B64C21/04" label="B64C21/04">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B64C19/00" label="B64C19/00">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="G01R31/08" label="G01R31/08">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="G08G5/04" label="G08G5/04">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="G01M1/04" label="G01M1/04">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="G01S13/93" label="G01S13/93">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="F03D5/00" label="F03D5/00">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="H01H47/04" label="H01H47/04">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="B64C13/12" label="B64C13/12">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="F15B9/03" label="F15B9/03">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B64C27/24" label="B64C27/24">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B64D25/11" label="B64D25/11">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="G04C3/14" label="G04C3/14">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B21D53/78" label="B21D53/78">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B23K20/18" label="B23K20/18">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B21D26/021" label="B21D26/021">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B21D26/055" label="B21D26/055">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="F01D5/18" label="F01D5/18">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="G09B19/10" label="G09B19/10">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="F01D9/02" label="F01D9/02">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="F04D29/54" label="F04D29/54">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="F01D5/14" label="F01D5/14">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="F41F3/00" label="F41F3/00">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="B64G1/26" label="B64G1/26">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B64G1/40" label="B64G1/40">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="F41G7/22" label="F41G7/22">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="B64F1/00" label="B64F1/00">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="B63G8/00" label="B63G8/00">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B64C35/00" label="B64C35/00">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B63B35/50" label="B63B35/50">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B64D17/00" label="B64D17/00">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B64D37/18" label="B64D37/18">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B60V1/00" label="B60V1/00">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B64C3/48" label="B64C3/48">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B64C3/36" label="B64C3/36">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B64C30/00" label="B64C30/00">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="H02N3/00" label="H02N3/00">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="G01M13/02" label="G01M13/02">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="G01L3/00" label="G01L3/00">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B64D13/00" label="B64D13/00">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="G01C21/00" label="G01C21/00">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="F02B51/04" label="F02B51/04">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="F02M27/04" label="F02M27/04">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B64F1/02" label="B64F1/02">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B64C1/14" label="B64C1/14">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="F25B1/00" label="F25B1/00">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="G05D23/19" label="G05D23/19">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B63B45/00" label="B63B45/00">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B63B22/00" label="B63B22/00">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="G01W1/00" label="G01W1/00">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B64D15/00" label="B64D15/00">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="F41H9/00" label="F41H9/00">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="G01N25/72" label="G01N25/72">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="G01M9/04" label="G01M9/04">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="B64C29/00" label="B64C29/00">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="F24F3/16" label="F24F3/16">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B82B3/00" label="B82B3/00">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B32B27/18" label="B32B27/18">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="F42B15/00" label="F42B15/00">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="B64D37/34" label="B64D37/34">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="B64D37/24" label="B64D37/24">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="F04D19/00" label="F04D19/00">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="B64C13/00" label="B64C13/00">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="G01T1/169" label="G01T1/169">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="H01J45/00" label="H01J45/00">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="F02K1/82" label="F02K1/82">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="F01P9/00" label="F01P9/00">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B64D33/08" label="B64D33/08">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="F02C6/20" label="F02C6/20">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="F02C7/268" label="F02C7/268">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B64C27/12" label="B64C27/12">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="B60K6/08" label="B60K6/08">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="F16H3/72" label="F16H3/72">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="F02C7/262" label="F02C7/262">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="F02C3/10" label="F02C3/10">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="B64B1/30" label="B64B1/30">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B64C25/50" label="B64C25/50">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="F03B17/06" label="F03B17/06">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="F03B13/00" label="F03B13/00">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B22D27/20" label="B22D27/20">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B22C9/04" label="B22C9/04">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B25B28/00" label="B25B28/00">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="B23P19/04" label="B23P19/04">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="B61B15/00" label="B61B15/00">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B61B13/00" label="B61B13/00">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="H01L31/18" label="H01L31/18">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="H01L31/115" label="H01L31/115">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="F02C7/224" label="F02C7/224">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="G01K15/00" label="G01K15/00">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="G01K13/02" label="G01K13/02">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="G01K7/02" label="G01K7/02">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="F41F3/065" label="F41F3/065">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="B64D7/08" label="B64D7/08">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="H02N11/00" label="H02N11/00">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="G01D5/24" label="G01D5/24">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="G01R31/12" label="G01R31/12">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="G01R31/02" label="G01R31/02">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="G01R27/26" label="G01R27/26">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="C23C8/36" label="C23C8/36">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="C23C8/24" label="C23C8/24">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="H01T1/00" label="H01T1/00">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="F42C19/08" label="F42C19/08">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="F42C15/31" label="F42C15/31">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="F42C15/24" label="F42C15/24">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="F42C14/06" label="F42C14/06">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="F42C1/02" label="F42C1/02">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="F42B3/10" label="F42B3/10">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B65D88/24" label="B65D88/24">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B64D1/18" label="B64D1/18">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="H02J7/00" label="H02J7/00">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="H05F7/00" label="H05F7/00">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="H01B7/16" label="H01B7/16">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="H01M10/44" label="H01M10/44">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="B64D47/00" label="B64D47/00">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="E05B47/00" label="E05B47/00">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B64D27/10" label="B64D27/10">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="F02C6/14" label="F02C6/14">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="F01D15/10" label="F01D15/10">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="F02C9/42" label="F02C9/42">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B64D9/00" label="B64D9/00">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B64D1/22" label="B64D1/22">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B64G1/52" label="B64G1/52">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="F04D1/06" label="F04D1/06">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="F02P17/00" label="F02P17/00">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="G06K9/78" label="G06K9/78">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="F02P3/06" label="F02P3/06">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="F02P3/09" label="F02P3/09">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="F02P17/12" label="F02P17/12">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="B32B5/04" label="B32B5/04">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B32B5/28" label="B32B5/28">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B32B37/10" label="B32B37/10">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B32B5/00" label="B32B5/00">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="H01B7/04" label="H01B7/04">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="A63H27/04" label="A63H27/04">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="C09D5/25" label="C09D5/25">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="C09D5/16" label="C09D5/16">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="C09D127/24" label="C09D127/24">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="C09D183/04" label="C09D183/04">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="C09D175/04" label="C09D175/04">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="H05K3/28" label="H05K3/28">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="H03K3/57" label="H03K3/57">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="H02J15/00" label="H02J15/00">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="H01L25/00" label="H01L25/00">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="H02P6/00" label="H02P6/00">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="H02P6/12" label="H02P6/12">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="H02P6/16" label="H02P6/16">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B64D33/00" label="B64D33/00">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="B60K6/48" label="B60K6/48">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="G01F23/296" label="G01F23/296">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="G01N29/46" label="G01N29/46">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="G01N9/00" label="G01N9/00">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B64C25/42" label="B64C25/42">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B60L7/24" label="B60L7/24">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="H02S10/12" label="H02S10/12">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="B64B1/50" label="B64B1/50">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="H05B6/10" label="H05B6/10">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="F03G7/08" label="F03G7/08">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="H01Q1/28" label="H01Q1/28">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="B64G1/42" target="B64G7/00" id="0" weight="1" />
+      <edge source="B64G1/42" target="G01R31/00" id="1" weight="1" />
+      <edge source="B64G1/42" target="B64G1/22" id="2" weight="1" />
+      <edge source="B64G1/00" target="B64G1/50" id="3" weight="1" />
+      <edge source="F03H1/00" target="F02K7/18" id="4" weight="1" />
+      <edge source="B64C27/04" target="G05D1/00" id="5" weight="1" />
+      <edge source="B64C27/04" target="B64D35/08" id="6" weight="1" />
+      <edge source="F15B15/22" target="F15B11/068" id="7" weight="1" />
+      <edge source="B64D25/08" target="B64D10/00" id="8" weight="1" />
+      <edge source="B64D41/00" target="H02J9/06" id="9" weight="3" />
+      <edge source="B64D41/00" target="H02J1/00" id="10" weight="1" />
+      <edge source="B64D41/00" target="H02J11/00" id="11" weight="1" />
+      <edge source="B64D41/00" target="H02J13/00" id="12" weight="1" />
+      <edge source="B64D41/00" target="H02J9/00" id="13" weight="1" />
+      <edge source="B64D41/00" target="F03D9/00" id="14" weight="1" />
+      <edge source="B64D41/00" target="F03D1/04" id="15" weight="1" />
+      <edge source="B64D41/00" target="B64C13/50" id="16" weight="1" />
+      <edge source="B64G1/50" target="F04B23/04" id="17" weight="1" />
+      <edge source="B64G1/50" target="F16K17/04" id="18" weight="1" />
+      <edge source="B64G1/50" target="F16L15/08" id="19" weight="1" />
+      <edge source="B64C39/00" target="B61B15/00" id="20" weight="1" />
+      <edge source="B64C39/00" target="B61B13/00" id="21" weight="1" />
+      <edge source="F04B23/04" target="F16K17/04" id="22" weight="1" />
+      <edge source="F04B23/04" target="F16L15/08" id="23" weight="1" />
+      <edge source="F16K17/04" target="F16L15/08" id="24" weight="1" />
+      <edge source="F03D1/02" target="F03D11/04" id="25" weight="1" />
+      <edge source="B61B13/08" target="B61B5/00" id="26" weight="1" />
+      <edge source="B61B13/08" target="B60V3/04" id="27" weight="1" />
+      <edge source="B61B5/00" target="B60V3/04" id="28" weight="1" />
+      <edge source="G01M9/00" target="G01M13/02" id="29" weight="1" />
+      <edge source="G01M9/00" target="G01L3/00" id="30" weight="1" />
+      <edge source="B64D27/24" target="B64C39/04" id="31" weight="1" />
+      <edge source="B64D27/24" target="B64D35/06" id="32" weight="1" />
+      <edge source="B64D27/24" target="B60L11/02" id="33" weight="2" />
+      <edge source="B64D27/24" target="B60L50/10" id="34" weight="2" />
+      <edge source="B64D27/24" target="B64C39/08" id="35" weight="1" />
+      <edge source="B64D27/24" target="B64D35/04" id="36" weight="1" />
+      <edge source="B64D27/24" target="B64B1/32" id="37" weight="1" />
+      <edge source="B64C39/04" target="B64D35/06" id="38" weight="1" />
+      <edge source="B64C39/04" target="B60L11/02" id="39" weight="1" />
+      <edge source="B64C39/04" target="B60L50/10" id="40" weight="1" />
+      <edge source="B64D35/06" target="B60L11/02" id="41" weight="1" />
+      <edge source="B64D35/06" target="B60L50/10" id="42" weight="1" />
+      <edge source="B60L11/02" target="B60L50/10" id="43" weight="2" />
+      <edge source="B60L11/02" target="B64C39/08" id="44" weight="1" />
+      <edge source="B60L50/10" target="B64C39/08" id="45" weight="1" />
+      <edge source="C09D5/32" target="H01Q17/00" id="46" weight="1" />
+      <edge source="G01M5/00" target="G01B11/16" id="47" weight="1" />
+      <edge source="G01M5/00" target="G01L1/24" id="48" weight="1" />
+      <edge source="G01B11/16" target="G01L1/24" id="49" weight="1" />
+      <edge source="B64C27/46" target="B64D45/00" id="50" weight="1" />
+      <edge source="B64D17/80" target="B64D17/72" id="51" weight="2" />
+      <edge source="B64D17/80" target="B64D17/62" id="52" weight="2" />
+      <edge source="B64D17/80" target="B64D17/58" id="53" weight="2" />
+      <edge source="B64D17/72" target="B64D17/62" id="54" weight="2" />
+      <edge source="B64D17/72" target="B64D17/58" id="55" weight="2" />
+      <edge source="B64D17/62" target="B64D17/58" id="56" weight="2" />
+      <edge source="B64D17/62" target="B64D25/11" id="57" weight="1" />
+      <edge source="B64C27/28" target="B64C37/00" id="58" weight="3" />
+      <edge source="B64C27/28" target="B64C39/08" id="59" weight="1" />
+      <edge source="B64C27/28" target="B64C29/00" id="60" weight="1" />
+      <edge source="B64C37/00" target="B64C39/08" id="61" weight="1" />
+      <edge source="G01M9/08" target="B64C11/26" id="62" weight="1" />
+      <edge source="B64D17/34" target="B64D25/10" id="63" weight="1" />
+      <edge source="B64C39/02" target="B64D27/02" id="64" weight="1" />
+      <edge source="B64C39/02" target="B64D35/08" id="65" weight="1" />
+      <edge source="B64C39/02" target="F24F3/16" id="66" weight="1" />
+      <edge source="B64D27/02" target="B64D35/08" id="67" weight="1" />
+      <edge source="F42C15/00" target="F42C15/184" id="68" weight="1" />
+      <edge source="F42C15/00" target="F42C15/40" id="69" weight="1" />
+      <edge source="F42C15/00" target="F42C15/42" id="70" weight="1" />
+      <edge source="F42C15/184" target="F42C15/40" id="71" weight="1" />
+      <edge source="F42C15/184" target="F42C15/42" id="72" weight="1" />
+      <edge source="F42C15/40" target="F42C15/42" id="73" weight="1" />
+      <edge source="F42C15/40" target="F42C19/08" id="74" weight="1" />
+      <edge source="F42C15/40" target="F42C15/31" id="75" weight="1" />
+      <edge source="F42C15/40" target="F42C15/24" id="76" weight="1" />
+      <edge source="F42C15/40" target="F42C14/06" id="77" weight="1" />
+      <edge source="F42C15/40" target="F42C1/02" id="78" weight="1" />
+      <edge source="F42C15/40" target="F42B3/10" id="79" weight="1" />
+      <edge source="G06G7/63" target="G01R27/00" id="80" weight="1" />
+      <edge source="G06G7/63" target="H02J3/00" id="81" weight="1" />
+      <edge source="G01R27/00" target="H02J3/00" id="82" weight="1" />
+      <edge source="B64C13/50" target="B64C13/06" id="83" weight="1" />
+      <edge source="B64C13/50" target="B64C13/04" id="84" weight="1" />
+      <edge source="B64C13/50" target="H02J9/06" id="85" weight="1" />
+      <edge source="B64C13/06" target="B64C13/04" id="86" weight="1" />
+      <edge source="G01M3/40" target="H05H3/00" id="87" weight="1" />
+      <edge source="G01M3/40" target="B64G4/00" id="88" weight="1" />
+      <edge source="H05H3/00" target="B64G4/00" id="89" weight="1" />
+      <edge source="C25F1/00" target="C25F5/00" id="90" weight="2" />
+      <edge source="B64D27/20" target="B60R19/52" id="91" weight="1" />
+      <edge source="B64D27/20" target="B64D33/02" id="92" weight="1" />
+      <edge source="B64D27/20" target="F02C7/055" id="93" weight="1" />
+      <edge source="B60R19/52" target="B64D33/02" id="94" weight="1" />
+      <edge source="B60R19/52" target="F02C7/055" id="95" weight="1" />
+      <edge source="B64D33/02" target="F02C7/055" id="96" weight="1" />
+      <edge source="H02J9/06" target="H02J1/00" id="97" weight="1" />
+      <edge source="H02J9/06" target="H02J11/00" id="98" weight="1" />
+      <edge source="H02J9/06" target="H02J13/00" id="99" weight="1" />
+      <edge source="H02J9/06" target="H02J9/00" id="100" weight="1" />
+      <edge source="H02J11/00" target="H02J13/00" id="101" weight="1" />
+      <edge source="H02J11/00" target="H02J9/00" id="102" weight="1" />
+      <edge source="H02J13/00" target="H02J9/00" id="103" weight="1" />
+      <edge source="B64C39/08" target="B64C27/24" id="104" weight="1" />
+      <edge source="F04D13/06" target="F04D29/62" id="105" weight="1" />
+      <edge source="F04D13/06" target="F04D29/02" id="106" weight="3" />
+      <edge source="F04D13/06" target="F04D1/06" id="107" weight="2" />
+      <edge source="F04D29/62" target="F04D29/02" id="108" weight="1" />
+      <edge source="F04D29/02" target="F04D1/06" id="109" weight="2" />
+      <edge source="F03D9/00" target="F03D1/04" id="110" weight="1" />
+      <edge source="F03D9/00" target="H02S10/12" id="111" weight="1" />
+      <edge source="F03D9/00" target="B64B1/50" id="112" weight="1" />
+      <edge source="G06F15/16" target="G01S3/78" id="113" weight="2" />
+      <edge source="B64D25/00" target="B64D27/08" id="114" weight="1" />
+      <edge source="B64C27/00" target="H02N11/00" id="115" weight="2" />
+      <edge source="B64D45/02" target="B64C1/00" id="116" weight="1" />
+      <edge source="B64D45/02" target="B64C3/20" id="117" weight="1" />
+      <edge source="B64D45/02" target="F01D9/02" id="118" weight="1" />
+      <edge source="B64D45/02" target="F04D29/54" id="119" weight="1" />
+      <edge source="B64D45/02" target="F01D5/14" id="120" weight="1" />
+      <edge source="B64C1/00" target="B64C3/20" id="121" weight="1" />
+      <edge source="B64D35/04" target="B64B1/32" id="122" weight="1" />
+      <edge source="F41H13/00" target="F41H3/00" id="123" weight="1" />
+      <edge source="B64G5/00" target="G01M1/04" id="124" weight="1" />
+      <edge source="B64G5/00" target="F41F3/00" id="125" weight="2" />
+      <edge source="H02P9/04" target="H02K47/04" id="126" weight="1" />
+      <edge source="H02P9/04" target="F02N11/04" id="127" weight="1" />
+      <edge source="H02K47/04" target="F02N11/04" id="128" weight="1" />
+      <edge source="B64C21/04" target="B64C19/00" id="129" weight="1" />
+      <edge source="B64C19/00" target="H05B6/10" id="130" weight="1" />
+      <edge source="G01R31/08" target="G08G5/04" id="131" weight="1" />
+      <edge source="B21D53/78" target="B23K20/18" id="132" weight="1" />
+      <edge source="B21D53/78" target="B21D26/021" id="133" weight="1" />
+      <edge source="B21D53/78" target="B21D26/055" id="134" weight="1" />
+      <edge source="B21D53/78" target="F01D5/18" id="135" weight="1" />
+      <edge source="B23K20/18" target="B21D26/021" id="136" weight="1" />
+      <edge source="B23K20/18" target="B21D26/055" id="137" weight="1" />
+      <edge source="B23K20/18" target="F01D5/18" id="138" weight="1" />
+      <edge source="B21D26/021" target="B21D26/055" id="139" weight="1" />
+      <edge source="B21D26/021" target="F01D5/18" id="140" weight="1" />
+      <edge source="B21D26/055" target="F01D5/18" id="141" weight="1" />
+      <edge source="F01D9/02" target="F04D29/54" id="142" weight="1" />
+      <edge source="F01D9/02" target="F01D5/14" id="143" weight="1" />
+      <edge source="F04D29/54" target="F01D5/14" id="144" weight="1" />
+      <edge source="B64G1/26" target="B64G1/40" id="145" weight="1" />
+      <edge source="B64G1/40" target="F03G7/08" id="146" weight="1" />
+      <edge source="B64F1/00" target="B63G8/00" id="147" weight="1" />
+      <edge source="B64F1/00" target="B64C35/00" id="148" weight="1" />
+      <edge source="B64F1/00" target="B63B35/50" id="149" weight="1" />
+      <edge source="B63G8/00" target="B64C35/00" id="150" weight="1" />
+      <edge source="B63G8/00" target="B63B35/50" id="151" weight="1" />
+      <edge source="B64C35/00" target="B63B35/50" id="152" weight="1" />
+      <edge source="B64C3/36" target="B64C30/00" id="153" weight="1" />
+      <edge source="B64C3/36" target="H02N3/00" id="154" weight="1" />
+      <edge source="B64C30/00" target="H02N3/00" id="155" weight="1" />
+      <edge source="G01M13/02" target="G01L3/00" id="156" weight="1" />
+      <edge source="F02B51/04" target="F02M27/04" id="157" weight="1" />
+      <edge source="B63B45/00" target="B63B22/00" id="158" weight="1" />
+      <edge source="G01N25/72" target="G01M9/04" id="159" weight="2" />
+      <edge source="B82B3/00" target="B32B27/18" id="160" weight="1" />
+      <edge source="F42B15/00" target="H01L25/00" id="161" weight="2" />
+      <edge source="B64D37/34" target="B64D37/24" id="162" weight="2" />
+      <edge source="H01J45/00" target="F02K1/82" id="163" weight="1" />
+      <edge source="H01J45/00" target="F01P9/00" id="164" weight="1" />
+      <edge source="H01J45/00" target="B64D33/08" id="165" weight="1" />
+      <edge source="F02K1/82" target="F01P9/00" id="166" weight="1" />
+      <edge source="F02K1/82" target="B64D33/08" id="167" weight="1" />
+      <edge source="F01P9/00" target="B64D33/08" id="168" weight="1" />
+      <edge source="B64C27/12" target="B60K6/08" id="169" weight="1" />
+      <edge source="B64C27/12" target="F16H3/72" id="170" weight="1" />
+      <edge source="B64C27/12" target="B64D33/00" id="171" weight="1" />
+      <edge source="B64C27/12" target="F01D15/10" id="172" weight="1" />
+      <edge source="B64C27/12" target="B60K6/48" id="173" weight="1" />
+      <edge source="B60K6/08" target="F16H3/72" id="174" weight="1" />
+      <edge source="F03B17/06" target="F03B13/00" id="175" weight="1" />
+      <edge source="B22D27/20" target="B22C9/04" id="176" weight="1" />
+      <edge source="B25B28/00" target="B23P19/04" id="177" weight="2" />
+      <edge source="B61B15/00" target="B61B13/00" id="178" weight="1" />
+      <edge source="H01L31/18" target="H01L31/115" id="179" weight="4" />
+      <edge source="G01K15/00" target="G01K13/02" id="180" weight="1" />
+      <edge source="G01K15/00" target="G01K7/02" id="181" weight="1" />
+      <edge source="G01K13/02" target="G01K7/02" id="182" weight="1" />
+      <edge source="F41F3/065" target="B64D7/08" id="183" weight="2" />
+      <edge source="G01R31/12" target="G01R31/02" id="184" weight="1" />
+      <edge source="G01R31/12" target="G01R27/26" id="185" weight="1" />
+      <edge source="G01R31/02" target="G01R27/26" id="186" weight="1" />
+      <edge source="C23C8/36" target="C23C8/24" id="187" weight="2" />
+      <edge source="F42C19/08" target="F42C15/31" id="188" weight="1" />
+      <edge source="F42C19/08" target="F42C15/24" id="189" weight="1" />
+      <edge source="F42C19/08" target="F42C14/06" id="190" weight="1" />
+      <edge source="F42C19/08" target="F42C1/02" id="191" weight="1" />
+      <edge source="F42C19/08" target="F42B3/10" id="192" weight="1" />
+      <edge source="F42C15/31" target="F42C15/24" id="193" weight="1" />
+      <edge source="F42C15/31" target="F42C14/06" id="194" weight="1" />
+      <edge source="F42C15/31" target="F42C1/02" id="195" weight="1" />
+      <edge source="F42C15/31" target="F42B3/10" id="196" weight="1" />
+      <edge source="F42C15/24" target="F42C14/06" id="197" weight="1" />
+      <edge source="F42C15/24" target="F42C1/02" id="198" weight="1" />
+      <edge source="F42C15/24" target="F42B3/10" id="199" weight="1" />
+      <edge source="F42C14/06" target="F42C1/02" id="200" weight="1" />
+      <edge source="F42C14/06" target="F42B3/10" id="201" weight="1" />
+      <edge source="F42C1/02" target="F42B3/10" id="202" weight="1" />
+      <edge source="B65D88/24" target="B64D1/18" id="203" weight="1" />
+      <edge source="B64D47/00" target="E05B47/00" id="204" weight="1" />
+      <edge source="B64D27/10" target="F02C6/14" id="205" weight="1" />
+      <edge source="B64D27/10" target="F01D15/10" id="206" weight="1" />
+      <edge source="F02C6/14" target="F01D15/10" id="207" weight="1" />
+      <edge source="F01D15/10" target="B64D33/00" id="208" weight="1" />
+      <edge source="F01D15/10" target="B60K6/48" id="209" weight="1" />
+      <edge source="B64D9/00" target="B64D1/22" id="210" weight="1" />
+      <edge source="F02P17/00" target="F02P3/06" id="211" weight="2" />
+      <edge source="F02P17/00" target="F02P3/09" id="212" weight="2" />
+      <edge source="F02P17/00" target="F02P17/12" id="213" weight="2" />
+      <edge source="F02P3/06" target="F02P3/09" id="214" weight="2" />
+      <edge source="F02P3/06" target="F02P17/12" id="215" weight="2" />
+      <edge source="F02P3/09" target="F02P17/12" id="216" weight="2" />
+      <edge source="B32B5/04" target="B32B5/28" id="217" weight="1" />
+      <edge source="B32B5/04" target="B32B37/10" id="218" weight="1" />
+      <edge source="B32B5/28" target="B32B37/10" id="219" weight="1" />
+      <edge source="H01B7/04" target="A63H27/04" id="220" weight="1" />
+      <edge source="C09D5/25" target="C09D5/16" id="221" weight="1" />
+      <edge source="C09D5/25" target="C09D127/24" id="222" weight="1" />
+      <edge source="C09D5/25" target="C09D183/04" id="223" weight="1" />
+      <edge source="C09D5/25" target="C09D175/04" id="224" weight="1" />
+      <edge source="C09D5/25" target="H05K3/28" id="225" weight="1" />
+      <edge source="C09D5/16" target="C09D127/24" id="226" weight="1" />
+      <edge source="C09D5/16" target="C09D183/04" id="227" weight="1" />
+      <edge source="C09D5/16" target="C09D175/04" id="228" weight="1" />
+      <edge source="C09D5/16" target="H05K3/28" id="229" weight="1" />
+      <edge source="C09D127/24" target="C09D183/04" id="230" weight="1" />
+      <edge source="C09D127/24" target="C09D175/04" id="231" weight="1" />
+      <edge source="C09D127/24" target="H05K3/28" id="232" weight="1" />
+      <edge source="C09D183/04" target="C09D175/04" id="233" weight="1" />
+      <edge source="C09D183/04" target="H05K3/28" id="234" weight="1" />
+      <edge source="C09D175/04" target="H05K3/28" id="235" weight="1" />
+      <edge source="H02P6/00" target="H02P6/12" id="236" weight="1" />
+      <edge source="H02P6/00" target="H02P6/16" id="237" weight="1" />
+      <edge source="H02P6/12" target="H02P6/16" id="238" weight="1" />
+      <edge source="B64D33/00" target="B60K6/48" id="239" weight="1" />
+      <edge source="G01F23/296" target="G01N29/46" id="240" weight="1" />
+      <edge source="G01F23/296" target="G01N9/00" id="241" weight="1" />
+      <edge source="G01N29/46" target="G01N9/00" id="242" weight="1" />
+      <edge source="B64C25/42" target="B60L7/24" id="243" weight="1" />
+      <edge source="H02S10/12" target="B64B1/50" id="244" weight="1" />
+    </edges>
+  </graph>
+</gexf>
